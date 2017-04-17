@@ -1,0 +1,10 @@
+Getting Started with Python is the first course in the specialization Python for Everybody. It covers Chapters 1-5 of the textbook Python for Informatics, which is the same material as the first half of the course Programming for Everybody (Python).
+
+Each Chapter will have a quiz and one or two required programming assignments. You must complete all of the quizzes and assignments to pass the course. To pass a quiz, you must get 8 out of 10 questions correct. There is no partial credit on programming assignments. You can track your progress on the Assignments page.
+
+The class is seven weeks long, with suggested deadlines each week to help you stay on track. These weekly deadlines are not mandatory, and you can turn them off from the Course Settings options at the bottom of the Home page.
+
+Students who want to earn a certificate will be asked to verify their identity each time they submit a quiz or assignment. If you do not plan to earn a certificate, you can also turn off these reminders from Course Settings. But if you want to get a certificate later, you should not turn these off.
+
+You must complete all course requirements by the end of the last week to pass the course. If you have not completed the course, you can enroll in the next session and your work will be carried over. New sessions begin every month.
+
